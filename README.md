@@ -14,3 +14,9 @@ Installation Steps:
 
 Use Cases:
   1. To practice of course
+
+
+Adding to this Repo:
+
+  When adding to this Repo you must create a pull request and have at least one person
+  review and verify your work before merging and changes into the main branch.
