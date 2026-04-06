@@ -1,7 +1,10 @@
 # practice-activity
 
 
+Project Purpose: 
+
 Hello this is a practice repo! For practicing and stuff!
+
 
 Installation Steps:
 
